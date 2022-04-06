@@ -1,0 +1,47 @@
+{
+  "name": "porte_logiche",
+  "private": true,
+  "version": "1.0.0",
+  "description": "porte_logiche",
+  "repository": "",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "cross-env NODE_ENV=development vite",
+    "build": "cross-env NODE_ENV=production vite build && npx workbox generateSW workbox-config.js",
+    "build-cordova": "cross-env TARGET=cordova cross-env NODE_ENV=production vite build && node ./build/build-cordova.js && cd cordova && cordova build",
+    "build-cordova-ios": "cross-env TARGET=cordova cross-env NODE_ENV=production vite build && node ./build/build-cordova.js && cd cordova && cordova build ios",
+    "cordova-ios": "cross-env TARGET=cordova cross-env NODE_ENV=production vite build && node ./build/build-cordova.js && cd cordova && cordova run ios",
+    "build-cordova-android": "cross-env TARGET=cordova cross-env NODE_ENV=production vite build && node ./build/build-cordova.js && cd cordova && cordova build android",
+    "cordova-android": "cross-env TARGET=cordova cross-env NODE_ENV=production vite build && node ./build/build-cordova.js && cd cordova && cordova run android",
+    "postinstall": "cpy ./node_modules/framework7-icons/fonts/*.* ./src/fonts/ && cpy ./node_modules/material-icons/iconfont/*.* ./src/fonts/"
+  },
+  "browserslist": [
+    "Android >= 7",
+    "IOS >= 11",
+    "Safari >= 11",
+    "Chrome >= 49",
+    "Firefox >= 31",
+    "Samsung >= 5"
+  ],
+  "dependencies": {
+    "dom7": "^3.0.0",
+    "framework7": "^6.3.16",
+    "framework7-icons": "^5.0.5",
+    "framework7-svelte": "^6.3.16",
+    "material-icons": "^1.10.8",
+    "skeleton-elements": "^3.5.0",
+    "svelte": "^3.46.6",
+    "swiper": "^6.8.4"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.41",
+    "cpy-cli": "^4.1.0",
+    "cross-env": "^7.0.3",
+    "postcss-preset-env": "^6.7.1",
+    "rollup": "^2.70.1",
+    "vite": "^2.9.1",
+    "vite-plugin-html": "^3.2.0",
+    "workbox-cli": "^6.5.2"
+  }
+}
