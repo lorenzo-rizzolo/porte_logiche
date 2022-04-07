@@ -1,7 +1,10 @@
 <Page name="home">
   <div class="bar">
     <Navbar>
-      <NavTitle>PORTE LOGICHE</NavTitle>
+    <NavLeft>
+      <strong>PORTE LOGICHE&nbsp;&nbsp;</strong>
+      <img src="porte.png" alt="">
+    </NavLeft>
     </Navbar>
   </div>
 
@@ -54,5 +57,9 @@
 <style>
   .bar{
     background-color: blue;
+  }
+  img{
+    width: 50px;
+    height: 30px;
   }
 </style>
