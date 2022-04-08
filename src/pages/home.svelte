@@ -59,7 +59,7 @@
     background-color: blue;
   }
   img{
-    width: 50px;
+    width: 40px;
     height: 30px;
   }
 </style>
