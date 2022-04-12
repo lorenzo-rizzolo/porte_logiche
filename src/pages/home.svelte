@@ -12,7 +12,14 @@
             <ListItem accordionItem title="7408 - AND"> 
                 <AccordionContent>
                     <Block>
-                      <ListItem accordionItem title="7408 - AND"> 
+                      <ListItem accordionItem title="DATASHEET"> 
+                        <AccordionContent>
+                            <Block>
+                                
+                            </Block>
+                       </AccordionContent>
+                       </ListItem>
+                       <ListItem accordionItem title="RELAZIONE"> 
                         <AccordionContent>
                             <Block>
                                 
@@ -25,14 +32,40 @@
         <ListItem accordionItem title="7404 - NOT"> 
             <AccordionContent>
                 <Block>
-                    
+                    <ListItem accordionItem title="DATASHEET"> 
+                        <AccordionContent>
+                            <Block>
+                                
+                            </Block>
+                       </AccordionContent>
+                       </ListItem>
+                       <ListItem accordionItem title="RELAZIONE"> 
+                        <AccordionContent>
+                            <Block>
+                                
+                            </Block>
+                        </AccordionContent>
+                    </ListItem>
                 </Block>
             </AccordionContent>
         </ListItem> 
         <ListItem accordionItem title="7405 - NAND"> 
           <AccordionContent>
               <Block>
-                  
+                  <ListItem accordionItem title="DATASHEET"> 
+                        <AccordionContent>
+                            <Block>
+                                
+                            </Block>
+                       </AccordionContent>
+                       </ListItem>
+                       <ListItem accordionItem title="RELAZIONE"> 
+                        <AccordionContent>
+                            <Block>
+                                
+                            </Block>
+                        </AccordionContent>
+                    </ListItem>
               </Block>
           </AccordionContent>
         </ListItem> 
