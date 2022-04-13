@@ -22,7 +22,7 @@
                     <ListItem accordionItem title="RELAZIONE"> 
                       <AccordionContent>
                           <Block>
-                            <a href="relazione_nand_oc.pdf" download="">Scarica il pdf</a>
+                            <Link href="http://loreriz.ddns.net/relazioni/porta_nand_oc.html" external>Apri PDF</Link>
                           </Block>
                       </AccordionContent>
                   </ListItem>
@@ -42,7 +42,7 @@
                        <ListItem accordionItem title="RELAZIONE"> 
                         <AccordionContent>
                             <Block>
-                              <a href="relazione_not.pdf" download="">Scarica il pdf</a>
+                              <Link href="http://loreriz.ddns.net/relazioni/porta_not.html" external>Apri PDF</Link>
                             </Block>
                         </AccordionContent>
                     </ListItem>
@@ -62,7 +62,7 @@
                        <ListItem accordionItem title="RELAZIONE"> 
                         <AccordionContent>
                             <Block>
-                              <a href="relazione_nand.pdf" download="">Scarica il pdf</a>
+                              <Link href="http://loreriz.ddns.net/relazioni/porta_nand.html" external>Apri PDF</Link>
                             </Block>
                         </AccordionContent>
                     </ListItem>
@@ -102,7 +102,7 @@
                        <ListItem accordionItem title="RELAZIONE"> 
                         <AccordionContent>
                             <Block>
-                              <a href="relazione_or.pdf" download="">Scarica il pdf</a>
+                              <Link href="http://loreriz.ddns.net/relazioni/porta_or.html" external>Apri PDF</Link>
                             </Block>
                         </AccordionContent>
                     </ListItem>
