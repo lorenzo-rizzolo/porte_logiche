@@ -15,7 +15,7 @@
                       <ListItem accordionItem title="DATASHEET"> 
                         <AccordionContent>
                             <Block>
-                                
+                                <img class="img" src="and.jpg" alt="and">
                             </Block>
                        </AccordionContent>
                        </ListItem>
@@ -100,5 +100,9 @@
   img{
     width: 40px;
     height: 30px;
+  }
+  .img{
+    width: 350px;
+    height: 200px;
   }
 </style>
