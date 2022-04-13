@@ -22,7 +22,7 @@
                        <ListItem accordionItem title="RELAZIONE"> 
                         <AccordionContent>
                             <Block>
-                                
+                                <a href="relazione_and.pdf" download="">Scarica il pdf</a>
                             </Block>
                         </AccordionContent>
                     </ListItem> 
@@ -104,5 +104,13 @@
   .img{
     width: 350px;
     height: 200px;
+  }
+  a{
+    background-color: blue;
+    color: white;
+    font-size: 150%;
+    text-decoration: none;
+    padding: 25px;
+    border-radius: 10px;
   }
 </style>
