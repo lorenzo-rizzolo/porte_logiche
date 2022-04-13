@@ -8,34 +8,14 @@
     </Navbar>
   </div>
 
-    <List accordionList>
-            <ListItem accordionItem title="7408 - AND"> 
-                <AccordionContent>
-                    <Block>
-                      <ListItem accordionItem title="DATASHEET"> 
-                        <AccordionContent>
-                            <Block>
-                                <img class="img" src="and.jpg" alt="and">
-                            </Block>
-                       </AccordionContent>
-                       </ListItem>
-                       <ListItem accordionItem title="RELAZIONE"> 
-                        <AccordionContent>
-                            <Block>
-                                <a href="relazione_and.pdf" download="">Scarica il pdf</a>
-                            </Block>
-                        </AccordionContent>
-                    </ListItem> 
-                    </Block>
-                </AccordionContent>
-            </ListItem> 
+    <List accordionList> 
         <ListItem accordionItem title="7404 - NOT"> 
             <AccordionContent>
                 <Block>
                     <ListItem accordionItem title="DATASHEET"> 
                         <AccordionContent>
                             <Block>
-                                
+                                <img class="img" src="not.jpg" alt="not">
                             </Block>
                        </AccordionContent>
                        </ListItem>
@@ -50,6 +30,46 @@
             </AccordionContent>
         </ListItem> 
         <ListItem accordionItem title="7405 - NAND"> 
+          <AccordionContent>
+              <Block>
+                  <ListItem accordionItem title="DATASHEET"> 
+                        <AccordionContent>
+                            <Block>
+                                
+                            </Block>
+                       </AccordionContent>
+                       </ListItem>
+                       <ListItem accordionItem title="RELAZIONE"> 
+                        <AccordionContent>
+                            <Block>
+                                
+                            </Block>
+                        </AccordionContent>
+                    </ListItem>
+              </Block>
+          </AccordionContent>
+        </ListItem>
+        <ListItem accordionItem title="7408 - AND"> 
+          <AccordionContent>
+              <Block>
+                <ListItem accordionItem title="DATASHEET"> 
+                  <AccordionContent>
+                      <Block>
+                          <img class="img" src="and.jpg" alt="and">
+                      </Block>
+                 </AccordionContent>
+                 </ListItem>
+                 <ListItem accordionItem title="RELAZIONE"> 
+                  <AccordionContent>
+                      <Block>
+                          <a href="relazione_and.pdf" download="">Scarica il pdf</a>
+                      </Block>
+                  </AccordionContent>
+              </ListItem> 
+              </Block>
+          </AccordionContent>
+        </ListItem>
+        <ListItem accordionItem title="7432 - OR"> 
           <AccordionContent>
               <Block>
                   <ListItem accordionItem title="DATASHEET"> 
