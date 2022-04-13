@@ -22,7 +22,7 @@
                        <ListItem accordionItem title="RELAZIONE"> 
                         <AccordionContent>
                             <Block>
-                                
+                              <a href="relazione_not.pdf" download="">Scarica il pdf</a>
                             </Block>
                         </AccordionContent>
                     </ListItem>
@@ -35,14 +35,14 @@
                   <ListItem accordionItem title="DATASHEET"> 
                         <AccordionContent>
                             <Block>
-                                
+                              <img class="img" src="nand.jpg" alt="nand">
                             </Block>
                        </AccordionContent>
                        </ListItem>
                        <ListItem accordionItem title="RELAZIONE"> 
                         <AccordionContent>
                             <Block>
-                                
+                              <a href="relazione_nand.pdf" download="">Scarica il pdf</a>
                             </Block>
                         </AccordionContent>
                     </ListItem>
@@ -75,14 +75,14 @@
                   <ListItem accordionItem title="DATASHEET"> 
                         <AccordionContent>
                             <Block>
-                                
+                              <img class="img" src="or.jpg" alt="or">
                             </Block>
                        </AccordionContent>
                        </ListItem>
                        <ListItem accordionItem title="RELAZIONE"> 
                         <AccordionContent>
                             <Block>
-                                
+                              <a href="relazione_or.pdf" download="">Scarica il pdf</a>
                             </Block>
                         </AccordionContent>
                     </ListItem>
