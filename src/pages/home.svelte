@@ -9,6 +9,26 @@
   </div>
 
     <List accordionList> 
+        <ListItem accordionItem title="7403 - NAND OC"> 
+          <AccordionContent>
+              <Block>
+                  <ListItem accordionItem title="DATASHEET"> 
+                      <AccordionContent>
+                          <Block>
+                              <img class="img" src="nand.jpg" alt="nand_oc">
+                          </Block>
+                    </AccordionContent>
+                    </ListItem>
+                    <ListItem accordionItem title="RELAZIONE"> 
+                      <AccordionContent>
+                          <Block>
+                            <a href="relazione_nand_oc.pdf" download="">Scarica il pdf</a>
+                          </Block>
+                      </AccordionContent>
+                  </ListItem>
+              </Block>
+          </AccordionContent>
+        </ListItem>
         <ListItem accordionItem title="7404 - NOT"> 
             <AccordionContent>
                 <Block>
