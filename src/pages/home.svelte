@@ -42,7 +42,7 @@
       <ListItem accordionItem title="RELAZIONE"> 
         <AccordionContent>
           <Block>
-            <a href="http://loreriz.ddns.net/relazioni/porta_and.html" external>Scarica il pdf</a>
+            <Link href="http://loreriz.ddns.net/relazioni/porta_and.html" external>Apri PDF</Link>
           </Block>
         </AccordionContent>
       </ListItem> 
