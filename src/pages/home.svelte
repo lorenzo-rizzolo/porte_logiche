@@ -164,7 +164,7 @@
       <ListItem accordionItem title="RELAZIONE WORD"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/6.porta_nand_word.html" external>Scarica WORD</Link>
+            <Link href="http://loreriz.ddns.net/relazioni/6.porta_nor_word.html" external>Scarica WORD</Link>
           </Block>
         </AccordionContent>
       </ListItem>
