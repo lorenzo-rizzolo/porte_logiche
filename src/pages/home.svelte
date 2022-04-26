@@ -22,14 +22,14 @@
       <ListItem accordionItem title="RELAZIONE PDF"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/1.porta_not.html" external>Apri PDF</Link>
+            <Link href="http://myprog.ddns.net/relazioni/1.porta_not.html" external>Apri PDF</Link>
           </Block>
         </AccordionContent>
       </ListItem>
       <ListItem accordionItem title="RELAZIONE WORD"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/1.porta_not_word.html" external>Scarica WORD</Link>
+            <Link href="http://myprog.ddns.net/relazioni/1.porta_not_word.html" external>Scarica WORD</Link>
           </Block>
         </AccordionContent>
       </ListItem>
@@ -49,14 +49,14 @@
       <ListItem accordionItem title="RELAZIONE PDF"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/2.porta_and.html" external>Apri PDF</Link>
+            <Link href="http://myprog.ddns.net/relazioni/2.porta_and.html" external>Apri PDF</Link>
           </Block>
         </AccordionContent>
       </ListItem>
       <ListItem accordionItem title="RELAZIONE WORD"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/2.porta_and_word.html" external>Scarica WORD</Link>
+            <Link href="http://myprog.ddns.net/relazioni/2.porta_and_word.html" external>Scarica WORD</Link>
           </Block>
         </AccordionContent>
       </ListItem> 
@@ -76,14 +76,14 @@
       <ListItem accordionItem title="RELAZIONE PDF"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/3.porta_nand.html" external>Apri PDF</Link>
+            <Link href="http://myprog.ddns.net/relazioni/3.porta_nand.html" external>Apri PDF</Link>
           </Block>
         </AccordionContent>
        </ListItem>
        <ListItem accordionItem title="RELAZIONE WORD"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/3.porta_nand_word.html" external>Scarica WORD</Link>
+            <Link href="http://myprog.ddns.net/relazioni/3.porta_nand_word.html" external>Scarica WORD</Link>
           </Block>
         </AccordionContent>
       </ListItem>
@@ -103,14 +103,14 @@
       <ListItem accordionItem title="RELAZIONE"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/4.porta_nand_oc.html" external>Apri PDF</Link>
+            <Link href="http://myprog.ddns.net/relazioni/4.porta_nand_oc.html" external>Apri PDF</Link>
           </Block>
         </AccordionContent>
       </ListItem>
       <ListItem accordionItem title="RELAZIONE WORD"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/4.porta_nand_oc_word.html" external>Scarica WORD</Link>
+            <Link href="http://myprog.ddns.net/relazioni/4.porta_nand_oc_word.html" external>Scarica WORD</Link>
           </Block>
         </AccordionContent>
       </ListItem>
@@ -130,14 +130,14 @@
       <ListItem accordionItem title="RELAZIONE PDF"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/5.porta_or.html" external>Apri PDF</Link>
+            <Link href="http://myprog.ddns.net/relazioni/5.porta_or.html" external>Apri PDF</Link>
           </Block>
         </AccordionContent>
       </ListItem>
       <ListItem accordionItem title="RELAZIONE WORD"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/5.porta_or_word.html" external>Scarica WORD</Link>
+            <Link href="http://myprog.ddns.net/relazioni/5.porta_or_word.html" external>Scarica WORD</Link>
           </Block>
         </AccordionContent>
       </ListItem>
@@ -157,14 +157,14 @@
       <ListItem accordionItem title="RELAZIONE PDF"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/6.porta_nor.html" external>Apri PDF</Link>
+            <Link href="http://myprog.ddns.net/relazioni/6.porta_nor.html" external>Apri PDF</Link>
           </Block>
         </AccordionContent>
       </ListItem>
       <ListItem accordionItem title="RELAZIONE WORD"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/6.porta_nor_word.html" external>Scarica WORD</Link>
+            <Link href="http://myprog.ddns.net/relazioni/6.porta_nor_word.html" external>Scarica WORD</Link>
           </Block>
         </AccordionContent>
       </ListItem>
@@ -184,14 +184,14 @@
       <ListItem accordionItem title="RELAZIONE PDF"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/7.porta_xor.html" external>Apri PDF</Link>
+            <Link href="http://myprog.ddns.net/relazioni/7.porta_xor.html" external>Apri PDF</Link>
           </Block>
         </AccordionContent>
       </ListItem>
       <ListItem accordionItem title="RELAZIONE WORD"> 
         <AccordionContent>
           <Block>
-            <Link href="http://loreriz.ddns.net/relazioni/7.porta_xor_word.html" external>Scarica WORD</Link>
+            <Link href="http://myprog.ddns.net/relazioni/7.porta_xor_word.html" external>Scarica WORD</Link>
           </Block>
         </AccordionContent>
       </ListItem>
