@@ -197,6 +197,26 @@
       </ListItem>
     </Block>
   </AccordionContent>
+</ListItem>
+<ListItem accordionItem title="Relazione - and e not"> 
+  <AccordionContent>
+    <Block>
+      <ListItem accordionItem title="RELAZIONE PDF"> 
+        <AccordionContent>
+          <Block>
+            <Link href="http://myprog.ddns.net/relazioni/8.porta_andnot.html" external>Apri PDF</Link>
+          </Block>
+        </AccordionContent>
+      </ListItem>
+      <ListItem accordionItem title="RELAZIONE WORD"> 
+        <AccordionContent>
+          <Block>
+            <Link href="http://myprog.ddns.net/relazioni/8.porta_andnot_word.html" external>Scarica WORD</Link>
+          </Block>
+        </AccordionContent>
+      </ListItem>
+    </Block>
+  </AccordionContent>
 </ListItem>  
 </List>
 </Page>
