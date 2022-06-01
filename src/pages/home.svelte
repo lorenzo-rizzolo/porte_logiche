@@ -12,7 +12,7 @@
 <ListItem accordionItem title="7404 - NOT"> 
   <AccordionContent>
     <Block>
-      <ListItem accordionItem title="DATASHEET"> 
+      <ListItem accordionItem title="SCHEMA"> 
         <AccordionContent>
           <Block>
             <img class="img" src="not.jpg" alt="not">
@@ -39,7 +39,7 @@
 <ListItem accordionItem title="7408 - AND"> 
   <AccordionContent>
     <Block>
-      <ListItem accordionItem title="DATASHEET"> 
+      <ListItem accordionItem title="SCHEMA"> 
         <AccordionContent>
           <Block>
             <img class="img" src="and.jpg" alt="and">
@@ -66,7 +66,7 @@
 <ListItem accordionItem title="7405 - NAND"> 
   <AccordionContent>
     <Block>
-      <ListItem accordionItem title="DATASHEET"> 
+      <ListItem accordionItem title="SCHEMA"> 
         <AccordionContent>
           <Block>
             <img class="img" src="nand.jpg" alt="nand">
@@ -93,7 +93,7 @@
 <ListItem accordionItem title="7403 - NAND OC"> 
   <AccordionContent>
     <Block>
-      <ListItem accordionItem title="DATASHEET"> 
+      <ListItem accordionItem title="SCHEMA"> 
         <AccordionContent>
           <Block>
             <img class="img" src="nand.jpg" alt="nand_oc">
@@ -120,7 +120,7 @@
 <ListItem accordionItem title="7432 - OR"> 
   <AccordionContent>
     <Block>
-      <ListItem accordionItem title="DATASHEET"> 
+      <ListItem accordionItem title="SCHEMA"> 
         <AccordionContent>
           <Block>
             <img class="img" src="or.jpg" alt="or">
@@ -147,7 +147,7 @@
 <ListItem accordionItem title="7402 - NOR"> 
   <AccordionContent>
     <Block>
-      <ListItem accordionItem title="DATASHEET"> 
+      <ListItem accordionItem title="SCHEMA"> 
         <AccordionContent>
           <Block>
             <img class="img" src="nor.jpg" alt="nor">
@@ -174,7 +174,7 @@
 <ListItem accordionItem title="7486 - XOR"> 
   <AccordionContent>
     <Block>
-      <ListItem accordionItem title="DATASHEET"> 
+      <ListItem accordionItem title="SCHEMA"> 
         <AccordionContent>
           <Block>
             <img class="img" src="xor.jpg" alt="xor">
